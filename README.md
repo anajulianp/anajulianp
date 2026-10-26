@@ -1,6 +1,6 @@
 ## Prazer, eu sou a Ana Júlia!
 
-👨🏻‍💻 Engenharia de Software | 📍 São Paulo/SP
+👨🏻‍💻 Engenharia de Software
 
 Uso este espaço para postar meus projetos pessoais e acadêmicos, documentando minha evolução como desenvolvedora!
 
