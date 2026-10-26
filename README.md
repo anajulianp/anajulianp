@@ -27,10 +27,9 @@ Período: Maio/2026 - Emprego atual
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- ***Linguagens e Banco de Dados:*** Python, SQL 
+- ***Linguagens e Banco de Dados:*** Python, SQL, HTML, CSS
 - ***Design & Prototipagem:*** Figma, Canva
 - ***Conceitos & Metodologias:*** Lógica de Programação, Engenharia de Prompt / IA, UX/UI (Jornada do Usuário), Metodologias Ágeis (Scrum/Kanban).
 
@@ -40,7 +39,7 @@ Comunicação assertiva, Proatividade, Trabalho em equipe, Organização e Facil
 
 ### 🎯 Objetivos:
 
-Busco uma oportunidade de **estágio em Desenvolvimento de Software ou área relacionadas**, onde eu possa aplicar minhas habilidades práticas em programação e conhecimentos acadêmicos, colaborar em projetos reais e acelerar minha evolução profissional.
+Busco uma oportunidade de **estágio em Desenvolvimento de Software ou áreas relacionadas**, onde eu possa aplicar minhas habilidades práticas em programação e conhecimentos acadêmicos, colaborar em projetos reais e acelerar minha evolução profissional.
 
 ### 📬 Vamos nos conectar?
 
