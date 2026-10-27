@@ -6,7 +6,7 @@ Uso este espaço para postar meus projetos pessoais e acadêmicos, documentando 
 
 ### 🙋‍♀️ Sobre mim
 
-Atualmente, estou no 2º semestre do curso **Engenharia de Software** e faço estágio na área de TI! No dia a dia, fico responsável por fazer o controle de equipamentos e dar suporte a alunos e professores em uma escola municipal. No meu tempo livre, gosto muito de lazer com meus amigos e família, além de ser apaixonada em musculação!
+Atualmente, estou no 2º semestre do curso **Engenharia de Software** e faço estágio na área de TI! No dia a dia, fico responsável por fazer o controle de equipamentos e dar suporte a alunos e professores em uma escola municipal.
 
 ### 🎓 Formação e cursos complementares:
 
