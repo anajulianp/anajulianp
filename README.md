@@ -18,9 +18,18 @@ Atualmente, estou no 2º semestre do curso **Engenharia de Software** e faço es
 
 ### 💼 Experiência:
 
-**Estágio de TI - SEDUC/PROATI**
-Período: Maio/2026 - Emprego atual
-***Atividades:*** Suporte técnico e acompanhamento de usuários (alunos e professores) e resolução de intercorrências de TI e controle de equipamentos no ambiente escolar.
+*Seduc/Proati – Secretaria da Educação | Informática/TI* (mai/2026 – atual)
+- Prestação de suporte técnico operacional em unidades escolares, garantindo disponibilidade e bom funcionamento dos recursos tecnológicos
+- Atendimento e orientação a usuários finais, com acompanhamento de demandas até a resolução
+- Articulação com equipes responsáveis para o encaminhamento e a resolução de chamados
+- Apoio à integração da tecnologia em práticas pedagógicas, promovendo o uso eficiente das ferramentas
+- Monitoramento e registro de ocorrências e atividades, contribuindo para a rastreabilidade e a melhoria contínua dos serviços
+
+*Dilepé Indústria e Comércio de Materiais Ortopédicos | Auxiliar Administrativa* (set/2025 – mai/2026)
+- Operação de rotinas administrativas no ERP TOTVS, com foco em consistência e integridade das informações
+- Elaboração e organização de relatórios gerenciais e controle de dados administrativos, apoiando a tomada de decisão
+- Execução de abertura e fechamento de operações, assegurando a conformidade dos processos
+- Emissão de notas fiscais, observando requisitos fiscais e prazos operacionais
 
 ### 🛠️ Tecnologias:
 
